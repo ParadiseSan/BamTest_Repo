@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c2355efb77903584a94c3681b144e3e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rewardButtonSfx: {fileID: 8300000, guid: 2acb75d7981b62840bb3b6449fed5623, type: 3}
+  - buttonClickSfx: {fileID: 8300000, guid: 6601bff9ce6e9624c917eaa73634d2a8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

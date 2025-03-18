@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5258ff96229006749bf292b51c57d17d, type: 3}
+  m_Name: RewardsData
+  m_EditorClassIdentifier: 
+  rewards:
+  - day: 1
+    rewardType: Coins
+    rewardImage: {fileID: 21300000, guid: cd9d2a266a4664cd692ce7c032361041, type: 3}
+    rewardAmount: 100
+    isLocked: 0
+  - day: 2
+    rewardType: Gems
+    rewardImage: {fileID: 21300000, guid: 8f9c5aecfebbd41eea10f82fb2fbb11d, type: 3}
+    rewardAmount: 5
+    isLocked: 0
+  - day: 3
+    rewardType: Gift
+    rewardImage: {fileID: 21300000, guid: 2488f3177b9074b289245f674de36887, type: 3}
+    rewardAmount: 1
+    isLocked: 0
+  - day: 4
+    rewardType: GoldenTicket
+    rewardImage: {fileID: 21300000, guid: 7898208bc763a45b7a72df205c9f0755, type: 3}
+    rewardAmount: 1
+    isLocked: 1
+  - day: 5
+    rewardType: Gems
+    rewardImage: {fileID: 21300000, guid: c1ada327db13247518d5a0bda29ed999, type: 3}
+    rewardAmount: 10
+    isLocked: 1
+  - day: 6
+    rewardType: Stars
+    rewardImage: {fileID: 21300000, guid: def9d44e77c3046528bd1809282fe1cb, type: 3}
+    rewardAmount: 3
+    isLocked: 1
+  - day: 7
+    rewardType: Energy
+    rewardImage: {fileID: 21300000, guid: dd50370016aa3427cbffd86ff9d349ea, type: 3}
+    rewardAmount: 10
+    isLocked: 1
+  - day: 8
+    rewardType: GoldenTicket
+    rewardImage: {fileID: 21300000, guid: 7898208bc763a45b7a72df205c9f0755, type: 3}
+    rewardAmount: 1
+    isLocked: 1
+  - day: 9
+    rewardType: Punch
+    rewardImage: {fileID: 21300000, guid: 7fd6e0462dd244573a18576c320addbc, type: 3}
+    rewardAmount: 2
+    isLocked: 1
+  - day: 10
+    rewardType: Punch
+    rewardImage: {fileID: 21300000, guid: 7fd6e0462dd244573a18576c320addbc, type: 3}
+    rewardAmount: 2
+    isLocked: 0
+  - day: 11
+    rewardType: Coins
+    rewardImage: {fileID: 21300000, guid: cd9d2a266a4664cd692ce7c032361041, type: 3}
+    rewardAmount: 100
+    isLocked: 1
+  - day: 12
+    rewardType: Gift
+    rewardImage: {fileID: 21300000, guid: 2488f3177b9074b289245f674de36887, type: 3}
+    rewardAmount: 1
+    isLocked: 1
+  - day: 13
+    rewardType: Gift
+    rewardImage: {fileID: 21300000, guid: 2488f3177b9074b289245f674de36887, type: 3}
+    rewardAmount: 1
+    isLocked: 1
+  - day: 14
+    rewardType: Gift
+    rewardImage: {fileID: 21300000, guid: 2488f3177b9074b289245f674de36887, type: 3}
+    rewardAmount: 1
+    isLocked: 1
+  - day: 15
+    rewardType: Gift
+    rewardImage: {fileID: 21300000, guid: 2488f3177b9074b289245f674de36887, type: 3}
+    rewardAmount: 1
+    isLocked: 1
+  - day: 16
+    rewardType: Gift
+    rewardImage: {fileID: 21300000, guid: 2488f3177b9074b289245f674de36887, type: 3}
+    rewardAmount: 1
+    isLocked: 1
+  - day: 17
+    rewardType: Gift
+    rewardImage: {fileID: 21300000, guid: 2488f3177b9074b289245f674de36887, type: 3}
+    rewardAmount: 1
+    isLocked: 0
